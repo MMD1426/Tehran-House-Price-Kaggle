@@ -1,20 +1,20 @@
 # Tehran-House-Price-Kaggle
 
-## معرفی
-این پروژه با هدف پیش‌بینی قیمت مسکن در تهران بر اساس داده‌های واقعی از معاملات املاک طراحی شده است. این پروژه از تکنیک‌های یادگیری ماشین برای تحلیل و پیش‌بینی قیمت‌ها استفاده می‌کند و می‌تواند به کاربران در ارزیابی و تحلیل بازار مسکن کمک کند.
+## Introduction
+This project is designed to predict housing prices in Tehran based on real estate transaction data. It utilizes machine learning techniques for analysis and prediction, helping users evaluate and analyze the housing market.
 
-## ویژگی‌ها
-- **استفاده از الگوریتم‌های یادگیری ماشین**: استفاده از مدل‌های مختلف مانند رگرسیون خطی، XGBoost، و Random Forest برای پیش‌بینی قیمت مسکن.
-- **تحلیل ویژگی‌ها**: بررسی و تحلیل ویژگی‌های مهم مانند متراژ، تعداد اتاق‌ها، موقعیت جغرافیایی و سال ساخت.
-- **دقت بالا**: مدل‌ها به گونه‌ای آموزش داده شده‌اند که بتوانند قیمت‌های دقیق‌تری بر اساس داده‌های ورودی ارائه دهند.
-- 
-## مدل‌ها
-- مدل‌های مختلف یادگیری ماشین مانند **رگرسیون خطی**، **XGBoost** و **Random Forest** برای مقایسه و انتخاب بهترین مدل استفاده شده است.
-- مدل‌ها با استفاده از داده‌های موجود در سایت Kaggle آموزش داده شده‌اند و معیارهای ارزیابی مختلف مانند MAE و RMSE برای سنجش دقت پیش‌بینی استفاده شده‌اند.
+## Features
+- **Machine Learning Algorithms**: Implementation of various models such as Linear Regression, XGBoost, and Random Forest for price prediction.
+- **Feature Analysis**: Examination and analysis of key features like area (square meters), number of rooms, geographical location, and construction year.
+- **High Accuracy**: The models are trained to provide precise price estimates based on input data.
 
-## بهبودهای آینده
-- افزودن داده‌های جدید برای بهبود دقت پیش‌بینی.
-- بهینه‌سازی مدل‌ها برای اجرای سریع‌تر و دقیق‌تر.
+## Models
+- Various machine learning models, including **Linear Regression**, **XGBoost**, and **Random Forest**, have been used for comparison and selecting the best-performing model.
+- The models are trained using data available on Kaggle, with evaluation metrics such as MAE and RMSE to measure prediction accuracy.
 
-## مشارکت
-مشارکت شما خوش‌آمد است! برای بهبود و رفع اشکالات، می‌توانید مشکلات را مطرح کنید یا درخواست‌های تغییر (Pull Requests) ارسال کنید.
+## Future Improvements
+- Adding new data to enhance prediction accuracy.
+- Optimizing models for faster and more precise execution.
+
+## Contribution
+Your contributions are welcome! You can report issues or submit pull requests to improve and refine the project.
